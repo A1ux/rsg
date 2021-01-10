@@ -10,3 +10,5 @@ A tool to generate various ways to do a reverse shell
 http://bernardodamele.blogspot.com.br/2011/09/reverse-shells-one-liners.html
 
 http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
